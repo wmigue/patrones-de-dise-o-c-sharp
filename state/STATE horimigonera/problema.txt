@@ -1,0 +1,8 @@
+
+maquina hormigón:
+necesito que cambie entre los siguientes estados: 
+1- dosificando
+2- espera
+3- cargar tolvas
+4- abortar operación
+

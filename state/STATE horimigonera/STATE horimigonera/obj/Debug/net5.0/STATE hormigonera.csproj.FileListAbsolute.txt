@@ -1,0 +1,16 @@
+G:\C#\_mis practicas\state\STATE horimigonera\STATE horimigonera\obj\Debug\net5.0\STATE hormigonera.csproj.AssemblyReference.cache
+G:\C#\_mis practicas\state\STATE horimigonera\STATE horimigonera\obj\Debug\net5.0\STATE hormigonera.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\_mis practicas\state\STATE horimigonera\STATE horimigonera\obj\Debug\net5.0\STATE hormigonera.AssemblyInfoInputs.cache
+G:\C#\_mis practicas\state\STATE horimigonera\STATE horimigonera\obj\Debug\net5.0\STATE hormigonera.AssemblyInfo.cs
+G:\C#\_mis practicas\state\STATE horimigonera\STATE horimigonera\obj\Debug\net5.0\STATE hormigonera.csproj.CoreCompileInputs.cache
+G:\C#\_mis practicas\state\STATE horimigonera\STATE horimigonera\bin\Debug\net5.0\STATE hormigonera.exe
+G:\C#\_mis practicas\state\STATE horimigonera\STATE horimigonera\bin\Debug\net5.0\STATE hormigonera.deps.json
+G:\C#\_mis practicas\state\STATE horimigonera\STATE horimigonera\bin\Debug\net5.0\STATE hormigonera.runtimeconfig.json
+G:\C#\_mis practicas\state\STATE horimigonera\STATE horimigonera\bin\Debug\net5.0\STATE hormigonera.runtimeconfig.dev.json
+G:\C#\_mis practicas\state\STATE horimigonera\STATE horimigonera\bin\Debug\net5.0\STATE hormigonera.dll
+G:\C#\_mis practicas\state\STATE horimigonera\STATE horimigonera\bin\Debug\net5.0\ref\STATE hormigonera.dll
+G:\C#\_mis practicas\state\STATE horimigonera\STATE horimigonera\bin\Debug\net5.0\STATE hormigonera.pdb
+G:\C#\_mis practicas\state\STATE horimigonera\STATE horimigonera\obj\Debug\net5.0\STATE hormigonera.dll
+G:\C#\_mis practicas\state\STATE horimigonera\STATE horimigonera\obj\Debug\net5.0\ref\STATE hormigonera.dll
+G:\C#\_mis practicas\state\STATE horimigonera\STATE horimigonera\obj\Debug\net5.0\STATE hormigonera.pdb
+G:\C#\_mis practicas\state\STATE horimigonera\STATE horimigonera\obj\Debug\net5.0\STATE hormigonera.genruntimeconfig.cache
