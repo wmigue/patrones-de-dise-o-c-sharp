@@ -1,0 +1,16 @@
+G:\C#\_mis practicas\builder\builder\builder\bin\Debug\net5.0\builder.exe
+G:\C#\_mis practicas\builder\builder\builder\bin\Debug\net5.0\builder.deps.json
+G:\C#\_mis practicas\builder\builder\builder\bin\Debug\net5.0\builder.runtimeconfig.json
+G:\C#\_mis practicas\builder\builder\builder\bin\Debug\net5.0\builder.runtimeconfig.dev.json
+G:\C#\_mis practicas\builder\builder\builder\bin\Debug\net5.0\builder.dll
+G:\C#\_mis practicas\builder\builder\builder\bin\Debug\net5.0\ref\builder.dll
+G:\C#\_mis practicas\builder\builder\builder\bin\Debug\net5.0\builder.pdb
+G:\C#\_mis practicas\builder\builder\builder\obj\Debug\net5.0\builder.csproj.AssemblyReference.cache
+G:\C#\_mis practicas\builder\builder\builder\obj\Debug\net5.0\builder.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\_mis practicas\builder\builder\builder\obj\Debug\net5.0\builder.AssemblyInfoInputs.cache
+G:\C#\_mis practicas\builder\builder\builder\obj\Debug\net5.0\builder.AssemblyInfo.cs
+G:\C#\_mis practicas\builder\builder\builder\obj\Debug\net5.0\builder.csproj.CoreCompileInputs.cache
+G:\C#\_mis practicas\builder\builder\builder\obj\Debug\net5.0\builder.dll
+G:\C#\_mis practicas\builder\builder\builder\obj\Debug\net5.0\ref\builder.dll
+G:\C#\_mis practicas\builder\builder\builder\obj\Debug\net5.0\builder.pdb
+G:\C#\_mis practicas\builder\builder\builder\obj\Debug\net5.0\builder.genruntimeconfig.cache
