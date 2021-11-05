@@ -1,0 +1,32 @@
+G:\C#\ejemplo prototipo 1\ejemplo prototipo 1\ejemplo prototipo 1\bin\Debug\net5.0\ejemplo prototipo 1.exe
+G:\C#\ejemplo prototipo 1\ejemplo prototipo 1\ejemplo prototipo 1\bin\Debug\net5.0\ejemplo prototipo 1.deps.json
+G:\C#\ejemplo prototipo 1\ejemplo prototipo 1\ejemplo prototipo 1\bin\Debug\net5.0\ejemplo prototipo 1.runtimeconfig.json
+G:\C#\ejemplo prototipo 1\ejemplo prototipo 1\ejemplo prototipo 1\bin\Debug\net5.0\ejemplo prototipo 1.runtimeconfig.dev.json
+G:\C#\ejemplo prototipo 1\ejemplo prototipo 1\ejemplo prototipo 1\bin\Debug\net5.0\ejemplo prototipo 1.dll
+G:\C#\ejemplo prototipo 1\ejemplo prototipo 1\ejemplo prototipo 1\bin\Debug\net5.0\ref\ejemplo prototipo 1.dll
+G:\C#\ejemplo prototipo 1\ejemplo prototipo 1\ejemplo prototipo 1\bin\Debug\net5.0\ejemplo prototipo 1.pdb
+G:\C#\ejemplo prototipo 1\ejemplo prototipo 1\ejemplo prototipo 1\obj\Debug\net5.0\ejemplo prototipo 1.csproj.AssemblyReference.cache
+G:\C#\ejemplo prototipo 1\ejemplo prototipo 1\ejemplo prototipo 1\obj\Debug\net5.0\ejemplo prototipo 1.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\ejemplo prototipo 1\ejemplo prototipo 1\ejemplo prototipo 1\obj\Debug\net5.0\ejemplo prototipo 1.AssemblyInfoInputs.cache
+G:\C#\ejemplo prototipo 1\ejemplo prototipo 1\ejemplo prototipo 1\obj\Debug\net5.0\ejemplo prototipo 1.AssemblyInfo.cs
+G:\C#\ejemplo prototipo 1\ejemplo prototipo 1\ejemplo prototipo 1\obj\Debug\net5.0\ejemplo prototipo 1.csproj.CoreCompileInputs.cache
+G:\C#\ejemplo prototipo 1\ejemplo prototipo 1\ejemplo prototipo 1\obj\Debug\net5.0\ejemplo prototipo 1.dll
+G:\C#\ejemplo prototipo 1\ejemplo prototipo 1\ejemplo prototipo 1\obj\Debug\net5.0\ref\ejemplo prototipo 1.dll
+G:\C#\ejemplo prototipo 1\ejemplo prototipo 1\ejemplo prototipo 1\obj\Debug\net5.0\ejemplo prototipo 1.pdb
+G:\C#\ejemplo prototipo 1\ejemplo prototipo 1\ejemplo prototipo 1\obj\Debug\net5.0\ejemplo prototipo 1.genruntimeconfig.cache
+G:\C#\_mis practicas\prototype\ejemplo prototipo 1\bin\Debug\net5.0\ejemplo prototipo 1.exe
+G:\C#\_mis practicas\prototype\ejemplo prototipo 1\bin\Debug\net5.0\ejemplo prototipo 1.deps.json
+G:\C#\_mis practicas\prototype\ejemplo prototipo 1\bin\Debug\net5.0\ejemplo prototipo 1.runtimeconfig.json
+G:\C#\_mis practicas\prototype\ejemplo prototipo 1\bin\Debug\net5.0\ejemplo prototipo 1.runtimeconfig.dev.json
+G:\C#\_mis practicas\prototype\ejemplo prototipo 1\bin\Debug\net5.0\ejemplo prototipo 1.dll
+G:\C#\_mis practicas\prototype\ejemplo prototipo 1\bin\Debug\net5.0\ref\ejemplo prototipo 1.dll
+G:\C#\_mis practicas\prototype\ejemplo prototipo 1\bin\Debug\net5.0\ejemplo prototipo 1.pdb
+G:\C#\_mis practicas\prototype\ejemplo prototipo 1\obj\Debug\net5.0\ejemplo prototipo 1.csproj.AssemblyReference.cache
+G:\C#\_mis practicas\prototype\ejemplo prototipo 1\obj\Debug\net5.0\ejemplo prototipo 1.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\_mis practicas\prototype\ejemplo prototipo 1\obj\Debug\net5.0\ejemplo prototipo 1.AssemblyInfoInputs.cache
+G:\C#\_mis practicas\prototype\ejemplo prototipo 1\obj\Debug\net5.0\ejemplo prototipo 1.AssemblyInfo.cs
+G:\C#\_mis practicas\prototype\ejemplo prototipo 1\obj\Debug\net5.0\ejemplo prototipo 1.csproj.CoreCompileInputs.cache
+G:\C#\_mis practicas\prototype\ejemplo prototipo 1\obj\Debug\net5.0\ejemplo prototipo 1.dll
+G:\C#\_mis practicas\prototype\ejemplo prototipo 1\obj\Debug\net5.0\ref\ejemplo prototipo 1.dll
+G:\C#\_mis practicas\prototype\ejemplo prototipo 1\obj\Debug\net5.0\ejemplo prototipo 1.pdb
+G:\C#\_mis practicas\prototype\ejemplo prototipo 1\obj\Debug\net5.0\ejemplo prototipo 1.genruntimeconfig.cache

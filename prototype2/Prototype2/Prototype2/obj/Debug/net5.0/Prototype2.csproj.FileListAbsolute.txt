@@ -1,0 +1,16 @@
+G:\C#\_mis practicas\prototype2\Prototype2\Prototype2\bin\Debug\net5.0\Prototype2.exe
+G:\C#\_mis practicas\prototype2\Prototype2\Prototype2\bin\Debug\net5.0\Prototype2.deps.json
+G:\C#\_mis practicas\prototype2\Prototype2\Prototype2\bin\Debug\net5.0\Prototype2.runtimeconfig.json
+G:\C#\_mis practicas\prototype2\Prototype2\Prototype2\bin\Debug\net5.0\Prototype2.runtimeconfig.dev.json
+G:\C#\_mis practicas\prototype2\Prototype2\Prototype2\bin\Debug\net5.0\Prototype2.dll
+G:\C#\_mis practicas\prototype2\Prototype2\Prototype2\bin\Debug\net5.0\ref\Prototype2.dll
+G:\C#\_mis practicas\prototype2\Prototype2\Prototype2\bin\Debug\net5.0\Prototype2.pdb
+G:\C#\_mis practicas\prototype2\Prototype2\Prototype2\obj\Debug\net5.0\Prototype2.csproj.AssemblyReference.cache
+G:\C#\_mis practicas\prototype2\Prototype2\Prototype2\obj\Debug\net5.0\Prototype2.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\_mis practicas\prototype2\Prototype2\Prototype2\obj\Debug\net5.0\Prototype2.AssemblyInfoInputs.cache
+G:\C#\_mis practicas\prototype2\Prototype2\Prototype2\obj\Debug\net5.0\Prototype2.AssemblyInfo.cs
+G:\C#\_mis practicas\prototype2\Prototype2\Prototype2\obj\Debug\net5.0\Prototype2.csproj.CoreCompileInputs.cache
+G:\C#\_mis practicas\prototype2\Prototype2\Prototype2\obj\Debug\net5.0\Prototype2.dll
+G:\C#\_mis practicas\prototype2\Prototype2\Prototype2\obj\Debug\net5.0\ref\Prototype2.dll
+G:\C#\_mis practicas\prototype2\Prototype2\Prototype2\obj\Debug\net5.0\Prototype2.pdb
+G:\C#\_mis practicas\prototype2\Prototype2\Prototype2\obj\Debug\net5.0\Prototype2.genruntimeconfig.cache
