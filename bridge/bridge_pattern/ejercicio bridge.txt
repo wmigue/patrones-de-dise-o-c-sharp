@@ -1,0 +1,12 @@
+Ejercicio Bridge 
+Realizar la implmenetación de una empresa de mensajería, que pueda a través de una abstracción, 
+realizar 3 tipos de envíos distintos (tierra, aire, mar). Tener en cuenta que la abstracción debe ser
+lo más extensible posible. 
+
+Debe poder modificar el envío sobre una misma instancia de la abstracción en tiempo de ejecución.
+
+Cada uno de los tipos de envío tienen los siguientes métodos:
+-RecogerPaquete()
+-EnviarPaquete()
+-EntregarPaquete()
+Los cuales printean en pantalla un mensaje acorde a su tipo de envío

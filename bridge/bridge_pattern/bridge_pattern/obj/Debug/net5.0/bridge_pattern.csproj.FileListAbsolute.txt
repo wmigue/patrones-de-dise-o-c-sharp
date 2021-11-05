@@ -1,0 +1,16 @@
+G:\C#\_mis practicas\bridge\bridge_pattern\bridge_pattern\bin\Debug\net5.0\bridge_pattern.exe
+G:\C#\_mis practicas\bridge\bridge_pattern\bridge_pattern\bin\Debug\net5.0\bridge_pattern.deps.json
+G:\C#\_mis practicas\bridge\bridge_pattern\bridge_pattern\bin\Debug\net5.0\bridge_pattern.runtimeconfig.json
+G:\C#\_mis practicas\bridge\bridge_pattern\bridge_pattern\bin\Debug\net5.0\bridge_pattern.runtimeconfig.dev.json
+G:\C#\_mis practicas\bridge\bridge_pattern\bridge_pattern\bin\Debug\net5.0\bridge_pattern.dll
+G:\C#\_mis practicas\bridge\bridge_pattern\bridge_pattern\bin\Debug\net5.0\ref\bridge_pattern.dll
+G:\C#\_mis practicas\bridge\bridge_pattern\bridge_pattern\bin\Debug\net5.0\bridge_pattern.pdb
+G:\C#\_mis practicas\bridge\bridge_pattern\bridge_pattern\obj\Debug\net5.0\bridge_pattern.csproj.AssemblyReference.cache
+G:\C#\_mis practicas\bridge\bridge_pattern\bridge_pattern\obj\Debug\net5.0\bridge_pattern.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\_mis practicas\bridge\bridge_pattern\bridge_pattern\obj\Debug\net5.0\bridge_pattern.AssemblyInfoInputs.cache
+G:\C#\_mis practicas\bridge\bridge_pattern\bridge_pattern\obj\Debug\net5.0\bridge_pattern.AssemblyInfo.cs
+G:\C#\_mis practicas\bridge\bridge_pattern\bridge_pattern\obj\Debug\net5.0\bridge_pattern.csproj.CoreCompileInputs.cache
+G:\C#\_mis practicas\bridge\bridge_pattern\bridge_pattern\obj\Debug\net5.0\bridge_pattern.dll
+G:\C#\_mis practicas\bridge\bridge_pattern\bridge_pattern\obj\Debug\net5.0\ref\bridge_pattern.dll
+G:\C#\_mis practicas\bridge\bridge_pattern\bridge_pattern\obj\Debug\net5.0\bridge_pattern.pdb
+G:\C#\_mis practicas\bridge\bridge_pattern\bridge_pattern\obj\Debug\net5.0\bridge_pattern.genruntimeconfig.cache
