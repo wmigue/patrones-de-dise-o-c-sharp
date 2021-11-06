@@ -24,6 +24,7 @@ namespace memento
         public void Restore()
         {
             var memento = _mementos[_mementos.Count-2];
+            Console.WriteLine(_mementos.Count);
             _mementos.Remove(memento);
             _origen.Restaurar(memento);
         }

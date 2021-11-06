@@ -1,0 +1,7 @@
+tenemos una clase velocimetro que devuelve los km/h. 
+este ultimo año salio una nueva versión de la clase, y necesitamos que los
+métodos que usabamos en la clase anterior se sigan pudiendo usar en esta nueva version
+que devuelve la velocidad pero en millas/h. (las debe transformar a km.)
+para ello necesitamos un adaptador para que el cliente, o programador que usa los 
+metodos de esta clase nueva pueda seguir usando la misma sintaxis o metodos que usaba antes con la clase
+anterior que sera obsoleta pronto, se deprecará. 

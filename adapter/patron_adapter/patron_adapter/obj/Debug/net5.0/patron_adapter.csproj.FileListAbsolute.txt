@@ -1,0 +1,16 @@
+G:\C#\_mis practicas\adapter\patron_adapter\patron_adapter\bin\Debug\net5.0\patron_adapter.exe
+G:\C#\_mis practicas\adapter\patron_adapter\patron_adapter\bin\Debug\net5.0\patron_adapter.deps.json
+G:\C#\_mis practicas\adapter\patron_adapter\patron_adapter\bin\Debug\net5.0\patron_adapter.runtimeconfig.json
+G:\C#\_mis practicas\adapter\patron_adapter\patron_adapter\bin\Debug\net5.0\patron_adapter.runtimeconfig.dev.json
+G:\C#\_mis practicas\adapter\patron_adapter\patron_adapter\bin\Debug\net5.0\patron_adapter.dll
+G:\C#\_mis practicas\adapter\patron_adapter\patron_adapter\bin\Debug\net5.0\ref\patron_adapter.dll
+G:\C#\_mis practicas\adapter\patron_adapter\patron_adapter\bin\Debug\net5.0\patron_adapter.pdb
+G:\C#\_mis practicas\adapter\patron_adapter\patron_adapter\obj\Debug\net5.0\patron_adapter.csproj.AssemblyReference.cache
+G:\C#\_mis practicas\adapter\patron_adapter\patron_adapter\obj\Debug\net5.0\patron_adapter.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\_mis practicas\adapter\patron_adapter\patron_adapter\obj\Debug\net5.0\patron_adapter.AssemblyInfoInputs.cache
+G:\C#\_mis practicas\adapter\patron_adapter\patron_adapter\obj\Debug\net5.0\patron_adapter.AssemblyInfo.cs
+G:\C#\_mis practicas\adapter\patron_adapter\patron_adapter\obj\Debug\net5.0\patron_adapter.csproj.CoreCompileInputs.cache
+G:\C#\_mis practicas\adapter\patron_adapter\patron_adapter\obj\Debug\net5.0\patron_adapter.dll
+G:\C#\_mis practicas\adapter\patron_adapter\patron_adapter\obj\Debug\net5.0\ref\patron_adapter.dll
+G:\C#\_mis practicas\adapter\patron_adapter\patron_adapter\obj\Debug\net5.0\patron_adapter.pdb
+G:\C#\_mis practicas\adapter\patron_adapter\patron_adapter\obj\Debug\net5.0\patron_adapter.genruntimeconfig.cache
