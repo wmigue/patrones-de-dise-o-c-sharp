@@ -1,0 +1,3 @@
+el cliente necesita una PC, nos cuenta para que la va a usar, fabricamos una solucion para él.
+pc gamer o pc standard de oficina.
+el patron factory encapsula el objeto que se va a instanciar, a travez de la función fabricar();
