@@ -20,7 +20,7 @@ namespace decorator
         }
         public string Caracteristicas()
         {
-            return _guitarra.Caracteristicas() + ", con Cuerdas 010";
+            return "+ Cuerdas 010";
         }
     }
 }

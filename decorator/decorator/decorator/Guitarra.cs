@@ -17,16 +17,12 @@ namespace decorator
             _costo = costo;
             _caracteristicas = caracteristicas;
         }
-        public string marcaCaracteristicas() {
+        public string Caracteristicas() {
             return _marca + ", " + _caracteristicas;
         }
         public double Costo()
         {
             return _costo;
-        }
-        public string Caracteristicas()
-        {
-            return _caracteristicas;
         }
     }
 }

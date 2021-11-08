@@ -9,17 +9,17 @@ namespace decorator
             IGuitarra guitarra = new Guitarra("Ibanez", "guitarra eléctrica base", 3000.51);
 
             //type cast desde clase guitarra ( solo metodo de clase guitarra ) 
-            Printer( ((Guitarra)guitarra).marcaCaracteristicas() );
+            Printer( ((Guitarra)guitarra).Caracteristicas() );
             Printer( $" costo $ {guitarra.Costo()} \n");
 
             //costo + mics EMG
-            Printer(" + mics EMG");
             guitarra = new MicrofonosEMG(guitarra);
+            Printer(guitarra.Caracteristicas());
             Printer($" $  {guitarra.Costo()}");
 
-            //costo + cuerdas calibre 010
-            Printer(" + cuerdas 010");
+            //costo + cuerdas calibre 010       
             guitarra = new Cuerdas010(guitarra);
+            Printer(guitarra.Caracteristicas());
             Printer($" $  {guitarra.Costo()}");
         }
 
