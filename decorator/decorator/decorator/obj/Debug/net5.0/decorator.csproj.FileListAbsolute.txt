@@ -1,0 +1,16 @@
+G:\C#\_mis practicas\decorator\decorator\decorator\bin\Debug\net5.0\decorator.exe
+G:\C#\_mis practicas\decorator\decorator\decorator\bin\Debug\net5.0\decorator.deps.json
+G:\C#\_mis practicas\decorator\decorator\decorator\bin\Debug\net5.0\decorator.runtimeconfig.json
+G:\C#\_mis practicas\decorator\decorator\decorator\bin\Debug\net5.0\decorator.runtimeconfig.dev.json
+G:\C#\_mis practicas\decorator\decorator\decorator\bin\Debug\net5.0\decorator.dll
+G:\C#\_mis practicas\decorator\decorator\decorator\bin\Debug\net5.0\ref\decorator.dll
+G:\C#\_mis practicas\decorator\decorator\decorator\bin\Debug\net5.0\decorator.pdb
+G:\C#\_mis practicas\decorator\decorator\decorator\obj\Debug\net5.0\decorator.csproj.AssemblyReference.cache
+G:\C#\_mis practicas\decorator\decorator\decorator\obj\Debug\net5.0\decorator.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\_mis practicas\decorator\decorator\decorator\obj\Debug\net5.0\decorator.AssemblyInfoInputs.cache
+G:\C#\_mis practicas\decorator\decorator\decorator\obj\Debug\net5.0\decorator.AssemblyInfo.cs
+G:\C#\_mis practicas\decorator\decorator\decorator\obj\Debug\net5.0\decorator.csproj.CoreCompileInputs.cache
+G:\C#\_mis practicas\decorator\decorator\decorator\obj\Debug\net5.0\decorator.dll
+G:\C#\_mis practicas\decorator\decorator\decorator\obj\Debug\net5.0\ref\decorator.dll
+G:\C#\_mis practicas\decorator\decorator\decorator\obj\Debug\net5.0\decorator.pdb
+G:\C#\_mis practicas\decorator\decorator\decorator\obj\Debug\net5.0\decorator.genruntimeconfig.cache

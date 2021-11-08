@@ -1,0 +1,3 @@
+tenemos el costo y características de una guitarra eléctrica base.
+Necesitamos sumar el precio de opcionales como microfonos emg, cuerdas de mayor calibre, etc.
+todo en tiempo de ejecución, manteniendo los mismos métodos que usa el cliente costo() caracteristicas(), etc.
