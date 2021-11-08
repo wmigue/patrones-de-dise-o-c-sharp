@@ -20,7 +20,7 @@ namespace decorator
         }
         public string Caracteristicas()
         {
-            return  "+ micrófonos EMG";
+            return _guitarra.Caracteristicas() + " + micrófonos EMG";
         }
     }
 }

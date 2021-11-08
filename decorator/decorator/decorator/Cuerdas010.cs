@@ -20,7 +20,7 @@ namespace decorator
         }
         public string Caracteristicas()
         {
-            return "+ Cuerdas 010";
+            return _guitarra.Caracteristicas() + " + cuerdas gauge 0.10";
         }
     }
 }
