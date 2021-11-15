@@ -6,9 +6,8 @@ namespace command2
     {
         static void Main(string[] args)
         {
-            string opcion;
-            Pedidos pedido = new Pedidos();
-            Invocador inv = new Invocador(pedido);
+            string opcion;   
+            Invocador inv = new Invocador();
             do
             {
                 Console.WriteLine("\nELEGIR UNA OPCION: \n 1) agregar burguer\n 2) agregar cerveza\n 3) ver totales\n 4) ver items\n 5) eliminar ultimo\n 6) salir.");

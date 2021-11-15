@@ -10,12 +10,8 @@ namespace command2
     {
         IComando _comando;
         IItem _item;
-        Pedidos _pedido;
+        Pedidos _pedido= new Pedidos();
 
-        public Invocador(Pedidos p)
-        {
-            _pedido = p;
-        }
        public void setOpcion (int opcion)
         {
             switch (opcion)
