@@ -1,0 +1,16 @@
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 2\autopartes\autopartes\bin\Debug\net5.0\autopartes.exe
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 2\autopartes\autopartes\bin\Debug\net5.0\autopartes.deps.json
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 2\autopartes\autopartes\bin\Debug\net5.0\autopartes.runtimeconfig.json
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 2\autopartes\autopartes\bin\Debug\net5.0\autopartes.runtimeconfig.dev.json
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 2\autopartes\autopartes\bin\Debug\net5.0\autopartes.dll
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 2\autopartes\autopartes\bin\Debug\net5.0\ref\autopartes.dll
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 2\autopartes\autopartes\bin\Debug\net5.0\autopartes.pdb
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 2\autopartes\autopartes\obj\Debug\net5.0\autopartes.csproj.AssemblyReference.cache
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 2\autopartes\autopartes\obj\Debug\net5.0\autopartes.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 2\autopartes\autopartes\obj\Debug\net5.0\autopartes.AssemblyInfoInputs.cache
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 2\autopartes\autopartes\obj\Debug\net5.0\autopartes.AssemblyInfo.cs
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 2\autopartes\autopartes\obj\Debug\net5.0\autopartes.csproj.CoreCompileInputs.cache
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 2\autopartes\autopartes\obj\Debug\net5.0\autopartes.dll
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 2\autopartes\autopartes\obj\Debug\net5.0\ref\autopartes.dll
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 2\autopartes\autopartes\obj\Debug\net5.0\autopartes.pdb
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 2\autopartes\autopartes\obj\Debug\net5.0\autopartes.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 1\consolas\consolas\obj\Debug\netcoreapp3.0\consolas.csproj.AssemblyReference.cache
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 1\consolas\consolas\obj\Debug\netcoreapp3.0\consolas.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 1\consolas\consolas\obj\Debug\netcoreapp3.0\consolas.AssemblyInfoInputs.cache
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 1\consolas\consolas\obj\Debug\netcoreapp3.0\consolas.AssemblyInfo.cs
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 1\consolas\consolas\obj\Debug\netcoreapp3.0\consolas.csproj.CoreCompileInputs.cache

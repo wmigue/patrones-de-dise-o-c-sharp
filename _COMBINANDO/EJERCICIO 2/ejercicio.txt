@@ -1,0 +1,36 @@
+Se nos pide implementar un sistema para una empresa que se encarga de Fabricar autopartes y posteriormente ensamblarlas para generar autos y camiones. 
+Fabricación de autopartes:
+La empresa tiene 3 fábricas para cada tipo de autoparte: Chasis, Tableros y Trenes delantero. 
+Las fábricas, todas comparten la acción Fabricar. 
+De cada una de las autopartes habrá dos tipos: autoparte para auto, y autoparte para camión. 
+Chasis:
+Todos los chasis, sean de autos o camiones, comparten una propiedad: CantidadDeEjes. 
+Los chasis de auto se inicializan de 4 ejes, y los de camiones de 8. Los mismos no se modifican a lo largo del proceso de ensamblado.
+Tableros:
+Todos los tableros, sean de autos o camiones, comparten una propiedad: ConControlDeAire, 
+que básicamente indicará si el tablero vendrá con controles del aire acondicionado o no. Dicho valor será indicado una vez inicializada 
+la autoparte y no será modificado.
+Tren Delantero:
+Todos los trenes delantero, sean de autos o camiones, comparten una propiedad para ver si tienen 
+dirección hidráulica o electrohidráulica. Dicho valor será indicado cuando se inicialice el tren delantero, y no podrá ser modificado.
+TODAS las autopartes comparten la acción "ImprimirModelo" que lo que hará será imprimir en pantalla el tipo de autoparte, 
+junto con su característica distintiva. Por ej: ("Tren delantero de de camión con dirección hidráulica") 
+
+Ensamblado:
+Los ensamblados se harán a través de constructores, que lo que harán será controlar dichos procesos. Tanto los constructores
+ de autos como los de camiones compartirán las acciones de ir ensamblado segmentadamente los vehículos, recibiendo las autopartes 
+necesarias de las fábricas en cuestión. Tener en cuenta que solo hay 2 vías posibles de ensamblado para cada tipo de vehículo
+ (es decir, 4 en total): 
+-Con control de aire y con dirección hidráulica.
+-Sin control de aire y con dirección electro hidráulica.
+Por el momento, la empresa no fabrica vehículos con control de aire y dirección electrohidráulica ni sin control de aire y
+ dirección hidráulica.
+
+Por último, y como requerimiento adicional, se nos pide realizar una implementación en código que sea fácilmente escalable y 
+actualizable con el más bajo acoplamiento posible, por lo que será necesario desacoplar la implementación del cliente. 
+Tener en cuenta que al haber solo 2 vías de ensamblado posibles (las anteriormente descritas) por el momento solo serán necesarias 2 procesos para la construcción de los vehículos.
+
+Consideraciones:
+-Al seleccionar alguna de las 4 vías de ensamblado, el resultado será que se deberá imprimir en consola cada autoparte que componga 
+el vehículo (acción imprimir modelo)
+-No se pueden ingresar valores nulos en el proceso de ensamblado de las autopartes.

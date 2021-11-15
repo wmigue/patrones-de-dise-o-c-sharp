@@ -1,0 +1,16 @@
+G:\C#\_mis practicas\command2\command2\command2\bin\Debug\net5.0\command2.exe
+G:\C#\_mis practicas\command2\command2\command2\bin\Debug\net5.0\command2.deps.json
+G:\C#\_mis practicas\command2\command2\command2\bin\Debug\net5.0\command2.runtimeconfig.json
+G:\C#\_mis practicas\command2\command2\command2\bin\Debug\net5.0\command2.runtimeconfig.dev.json
+G:\C#\_mis practicas\command2\command2\command2\bin\Debug\net5.0\command2.dll
+G:\C#\_mis practicas\command2\command2\command2\bin\Debug\net5.0\ref\command2.dll
+G:\C#\_mis practicas\command2\command2\command2\bin\Debug\net5.0\command2.pdb
+G:\C#\_mis practicas\command2\command2\command2\obj\Debug\net5.0\command2.csproj.AssemblyReference.cache
+G:\C#\_mis practicas\command2\command2\command2\obj\Debug\net5.0\command2.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\_mis practicas\command2\command2\command2\obj\Debug\net5.0\command2.AssemblyInfoInputs.cache
+G:\C#\_mis practicas\command2\command2\command2\obj\Debug\net5.0\command2.AssemblyInfo.cs
+G:\C#\_mis practicas\command2\command2\command2\obj\Debug\net5.0\command2.csproj.CoreCompileInputs.cache
+G:\C#\_mis practicas\command2\command2\command2\obj\Debug\net5.0\command2.dll
+G:\C#\_mis practicas\command2\command2\command2\obj\Debug\net5.0\ref\command2.dll
+G:\C#\_mis practicas\command2\command2\command2\obj\Debug\net5.0\command2.pdb
+G:\C#\_mis practicas\command2\command2\command2\obj\Debug\net5.0\command2.genruntimeconfig.cache

@@ -1,0 +1,37 @@
+Implementar una fábrica de prototipos de consolas de videojuegos, que pueden ser de primera, segunda, tercera y cuarta generación. 
+
+Las consolas, además de una generación, tendrán un nombre, por ej: Playstation, Xbox, etc. Al querer obtener un prototipo de 
+alguna de ellas, la fábrica de prototipos deberá 
+devolvernos una instancia de consola con el nombre de "Primera generación" por ejemplo en caso de tratarse de una de dicha generación. 
+La consola deberá tener un modificador para poder 
+ingresarle un nombre más tarde.
+
+Posteriormente a esta parte, se quiere a su vez, desarrollar los juegos que van a ser ejecutados en dichas consolas.
+La jerarquización de los juegos será también por generaciones y deberán 
+tener, además, la generación a la cual pertenecen, un nombre, un nombre del jugador, así como también la vida de este, siendo
+inicializada en 100. Los juegos deberán tener un método correr juego, 
+que imprimirá en la pantalla que se está ejecutando {nombreJuego} indicando también la generación del juego. La abstracción 
+que ejeceute el juego, deberá validar que el juego sea de 
+una generación igual o anterior a la consola en la cual se va a ejecutar, de manera que si el juego es de una generación posterior a 
+la consola, no lo pueda ejecutar. A su vez, tendrán una
+ acción para setear el nombre del jugador, validando que no exista un jugador ya jugando ese juego. Si no hay ningún jugador, se podrá 
+ingresar dicho campo.
+
+Por último, los juegos deberán poder guardar partida, guardando el nombre del jugador  y la vida contenida hasta ese momento.
+ Deberá haber un método reducir vida en los juegos que si la vida 
+a reducir, excede la vida actual de jugador, lo haga perder la partida. Tener en cuenta que se podrá restaurar la partida guardada 
+hasta 3 veces únicamente. Una vez excedida esa cantidad, el 
+jugador habrá perdido definitivamente.
+
+
+---------------------------
+NOTA DEL PROFESOR:
+
+Parcialmente incorrecta elección de patrones (Builder y Factory no eran adecuados)
+El ejercicio pedía la implementación de los patrones Prototype (para regular la plantilla de consolas que pedía
+ la consigna, así como una inicialización parcial), Bridge (para controlar la ejecución de los juegos, 
+no su creación como está en la implementación que hiciste) y Memento (para controlar el salvado de las partidas). 
+A su vez, no hay nada de la lógica para reducir la vida del jugador ni para controlar que no hay jugador jugando.
+ El patrón factory no era adecuado para la generación de las consolas, ya que lo que nos pedía era una plantilla 
+con determinadas consolas inicializadas por default. El patrón builder tampoco es correcto, ya que en ningún momento 
+nos pide que segmentemos un proceso de construcción ni que debamos tener un control específico sobre dicho proceso.
