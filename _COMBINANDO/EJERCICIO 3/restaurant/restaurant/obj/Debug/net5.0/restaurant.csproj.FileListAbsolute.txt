@@ -1,0 +1,16 @@
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 3\restaurant\restaurant\obj\Debug\net5.0\restaurant.csproj.AssemblyReference.cache
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 3\restaurant\restaurant\obj\Debug\net5.0\restaurant.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 3\restaurant\restaurant\obj\Debug\net5.0\restaurant.AssemblyInfoInputs.cache
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 3\restaurant\restaurant\obj\Debug\net5.0\restaurant.AssemblyInfo.cs
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 3\restaurant\restaurant\obj\Debug\net5.0\restaurant.csproj.CoreCompileInputs.cache
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 3\restaurant\restaurant\bin\Debug\net5.0\restaurant.exe
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 3\restaurant\restaurant\bin\Debug\net5.0\restaurant.deps.json
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 3\restaurant\restaurant\bin\Debug\net5.0\restaurant.runtimeconfig.json
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 3\restaurant\restaurant\bin\Debug\net5.0\restaurant.runtimeconfig.dev.json
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 3\restaurant\restaurant\bin\Debug\net5.0\restaurant.dll
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 3\restaurant\restaurant\bin\Debug\net5.0\ref\restaurant.dll
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 3\restaurant\restaurant\bin\Debug\net5.0\restaurant.pdb
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 3\restaurant\restaurant\obj\Debug\net5.0\restaurant.dll
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 3\restaurant\restaurant\obj\Debug\net5.0\ref\restaurant.dll
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 3\restaurant\restaurant\obj\Debug\net5.0\restaurant.pdb
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 3\restaurant\restaurant\obj\Debug\net5.0\restaurant.genruntimeconfig.cache

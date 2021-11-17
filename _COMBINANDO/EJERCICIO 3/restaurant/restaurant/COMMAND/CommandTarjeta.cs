@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace restaurant.COMMAND
+{
+    class CommandTarjeta : IComando
+    {
+        public Receiver _receiver;
+        public CommandTarjeta(Receiver r)
+        {
+            _receiver = r;
+        }
+
+        public void Ejecutar()
+        {
+            _receiver.PagarTarjeta();
+        }
+    }
+}
