@@ -39,7 +39,7 @@ namespace restaurant.STATE
                     Console.WriteLine("MESA CERRADA. Reabrir mesa? \n1-SI \n2-NO");
                     confirmacion = Int32.Parse(Console.ReadLine());
                         if (confirmacion == 1)
-                            _mesa.EstadoActual = _mesa.EstadoAbierta;      
+                            _mesa.ReabrirMesa();
                         else
                             Console.WriteLine("mesa cerrada. saliendo del programa.");
                  }
@@ -58,7 +58,7 @@ namespace restaurant.STATE
                         Console.WriteLine("MESA CERRADA. Reabrir mesa? \n1-SI \n2-NO");
                         confirmacion = Int32.Parse(Console.ReadLine());
                         if (confirmacion == 1)
-                            _mesa.EstadoActual = _mesa.EstadoAbierta;
+                            _mesa.ReabrirMesa();
                         else
                             Console.WriteLine("mesa cerrada. saliendo del programa.");
                     }
@@ -77,9 +77,9 @@ namespace restaurant.STATE
                     _mesa.EstadoActual = _mesa.EstadoCerrada;
                     Console.WriteLine("MESA CERRADA. Reabrir mesa? \n1-SI \n2-NO");
                     confirmacion = Int32.Parse(Console.ReadLine());
-                    if (confirmacion == 1)
-                         _mesa.EstadoActual = _mesa.EstadoAbierta;
-                    else
+                        if (confirmacion == 1)
+                           _mesa.ReabrirMesa();
+                        else
                          Console.WriteLine("mesa cerrada. saliendo del programa.");
                     }
 

@@ -1,0 +1,16 @@
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 4\fabrica_decorator\fabrica_decorator\obj\Debug\net5.0\fabrica_decorator.csproj.AssemblyReference.cache
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 4\fabrica_decorator\fabrica_decorator\obj\Debug\net5.0\fabrica_decorator.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 4\fabrica_decorator\fabrica_decorator\obj\Debug\net5.0\fabrica_decorator.AssemblyInfoInputs.cache
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 4\fabrica_decorator\fabrica_decorator\obj\Debug\net5.0\fabrica_decorator.AssemblyInfo.cs
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 4\fabrica_decorator\fabrica_decorator\obj\Debug\net5.0\fabrica_decorator.csproj.CoreCompileInputs.cache
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 4\fabrica_decorator\fabrica_decorator\bin\Debug\net5.0\fabrica_decorator.exe
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 4\fabrica_decorator\fabrica_decorator\bin\Debug\net5.0\fabrica_decorator.deps.json
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 4\fabrica_decorator\fabrica_decorator\bin\Debug\net5.0\fabrica_decorator.runtimeconfig.json
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 4\fabrica_decorator\fabrica_decorator\bin\Debug\net5.0\fabrica_decorator.runtimeconfig.dev.json
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 4\fabrica_decorator\fabrica_decorator\bin\Debug\net5.0\fabrica_decorator.dll
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 4\fabrica_decorator\fabrica_decorator\bin\Debug\net5.0\ref\fabrica_decorator.dll
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 4\fabrica_decorator\fabrica_decorator\bin\Debug\net5.0\fabrica_decorator.pdb
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 4\fabrica_decorator\fabrica_decorator\obj\Debug\net5.0\fabrica_decorator.dll
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 4\fabrica_decorator\fabrica_decorator\obj\Debug\net5.0\ref\fabrica_decorator.dll
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 4\fabrica_decorator\fabrica_decorator\obj\Debug\net5.0\fabrica_decorator.pdb
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 4\fabrica_decorator\fabrica_decorator\obj\Debug\net5.0\fabrica_decorator.genruntimeconfig.cache
