@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\C#\\_mis practicas\\strategy\\Strategy\\Strategy\\Strategy.csproj",
+      "projectUniqueName": "G:\\C#\\_mis practicas\\strategy2\\Strategy\\Strategy\\Strategy.csproj",
       "projectName": "Strategy",
-      "projectPath": "G:\\C#\\_mis practicas\\strategy\\Strategy\\Strategy\\Strategy.csproj",
+      "projectPath": "G:\\C#\\_mis practicas\\strategy2\\Strategy\\Strategy\\Strategy.csproj",
       "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
-      "outputPath": "G:\\C#\\_mis practicas\\strategy\\Strategy\\Strategy\\obj\\",
+      "outputPath": "G:\\C#\\_mis practicas\\strategy2\\Strategy\\Strategy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\migue\\AppData\\Roaming\\NuGet\\NuGet.Config",

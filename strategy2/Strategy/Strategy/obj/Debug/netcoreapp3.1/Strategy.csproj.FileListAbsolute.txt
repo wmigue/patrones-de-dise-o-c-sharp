@@ -1,0 +1,39 @@
+C:\Users\JR235ZR\OneDrive - EY\Desktop\ISTEA\Clases\Implementaciones\Implementaciones Teóricas\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.exe
+C:\Users\JR235ZR\OneDrive - EY\Desktop\ISTEA\Clases\Implementaciones\Implementaciones Teóricas\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.deps.json
+C:\Users\JR235ZR\OneDrive - EY\Desktop\ISTEA\Clases\Implementaciones\Implementaciones Teóricas\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.json
+C:\Users\JR235ZR\OneDrive - EY\Desktop\ISTEA\Clases\Implementaciones\Implementaciones Teóricas\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.dev.json
+C:\Users\JR235ZR\OneDrive - EY\Desktop\ISTEA\Clases\Implementaciones\Implementaciones Teóricas\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.dll
+C:\Users\JR235ZR\OneDrive - EY\Desktop\ISTEA\Clases\Implementaciones\Implementaciones Teóricas\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.pdb
+C:\Users\JR235ZR\OneDrive - EY\Desktop\ISTEA\Clases\Implementaciones\Implementaciones Teóricas\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.csprojAssemblyReference.cache
+C:\Users\JR235ZR\OneDrive - EY\Desktop\ISTEA\Clases\Implementaciones\Implementaciones Teóricas\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfoInputs.cache
+C:\Users\JR235ZR\OneDrive - EY\Desktop\ISTEA\Clases\Implementaciones\Implementaciones Teóricas\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfo.cs
+C:\Users\JR235ZR\OneDrive - EY\Desktop\ISTEA\Clases\Implementaciones\Implementaciones Teóricas\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.dll
+C:\Users\JR235ZR\OneDrive - EY\Desktop\ISTEA\Clases\Implementaciones\Implementaciones Teóricas\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.pdb
+G:\C#\_mis practicas\strategy\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.exe
+G:\C#\_mis practicas\strategy\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.deps.json
+G:\C#\_mis practicas\strategy\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.json
+G:\C#\_mis practicas\strategy\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.dev.json
+G:\C#\_mis practicas\strategy\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.dll
+G:\C#\_mis practicas\strategy\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.pdb
+G:\C#\_mis practicas\strategy\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.csproj.AssemblyReference.cache
+G:\C#\_mis practicas\strategy\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\_mis practicas\strategy\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfoInputs.cache
+G:\C#\_mis practicas\strategy\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfo.cs
+G:\C#\_mis practicas\strategy\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.csproj.CoreCompileInputs.cache
+G:\C#\_mis practicas\strategy\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.dll
+G:\C#\_mis practicas\strategy\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.pdb
+G:\C#\_mis practicas\strategy\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.genruntimeconfig.cache
+G:\C#\_mis practicas\strategy2\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.exe
+G:\C#\_mis practicas\strategy2\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.deps.json
+G:\C#\_mis practicas\strategy2\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.json
+G:\C#\_mis practicas\strategy2\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.dev.json
+G:\C#\_mis practicas\strategy2\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.dll
+G:\C#\_mis practicas\strategy2\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.pdb
+G:\C#\_mis practicas\strategy2\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.csproj.AssemblyReference.cache
+G:\C#\_mis practicas\strategy2\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\_mis practicas\strategy2\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfoInputs.cache
+G:\C#\_mis practicas\strategy2\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfo.cs
+G:\C#\_mis practicas\strategy2\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.csproj.CoreCompileInputs.cache
+G:\C#\_mis practicas\strategy2\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.dll
+G:\C#\_mis practicas\strategy2\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.pdb
+G:\C#\_mis practicas\strategy2\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.genruntimeconfig.cache
