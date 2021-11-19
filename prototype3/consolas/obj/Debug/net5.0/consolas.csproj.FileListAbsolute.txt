@@ -14,3 +14,19 @@ G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 1\consolas\consolas\obj\Debug\net5.0\
 G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 1\consolas\consolas\obj\Debug\net5.0\ref\consolas.dll
 G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 1\consolas\consolas\obj\Debug\net5.0\consolas.pdb
 G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 1\consolas\consolas\obj\Debug\net5.0\consolas.genruntimeconfig.cache
+G:\C#\_mis practicas\prototype3\consolas\obj\Debug\net5.0\consolas.csproj.AssemblyReference.cache
+G:\C#\_mis practicas\prototype3\consolas\obj\Debug\net5.0\consolas.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\_mis practicas\prototype3\consolas\obj\Debug\net5.0\consolas.AssemblyInfoInputs.cache
+G:\C#\_mis practicas\prototype3\consolas\obj\Debug\net5.0\consolas.AssemblyInfo.cs
+G:\C#\_mis practicas\prototype3\consolas\obj\Debug\net5.0\consolas.csproj.CoreCompileInputs.cache
+G:\C#\_mis practicas\prototype3\consolas\obj\Debug\net5.0\consolas.dll
+G:\C#\_mis practicas\prototype3\consolas\obj\Debug\net5.0\ref\consolas.dll
+G:\C#\_mis practicas\prototype3\consolas\obj\Debug\net5.0\consolas.pdb
+G:\C#\_mis practicas\prototype3\consolas\bin\Debug\net5.0\consolas.exe
+G:\C#\_mis practicas\prototype3\consolas\bin\Debug\net5.0\consolas.deps.json
+G:\C#\_mis practicas\prototype3\consolas\bin\Debug\net5.0\consolas.runtimeconfig.json
+G:\C#\_mis practicas\prototype3\consolas\bin\Debug\net5.0\consolas.runtimeconfig.dev.json
+G:\C#\_mis practicas\prototype3\consolas\bin\Debug\net5.0\consolas.dll
+G:\C#\_mis practicas\prototype3\consolas\bin\Debug\net5.0\ref\consolas.dll
+G:\C#\_mis practicas\prototype3\consolas\bin\Debug\net5.0\consolas.pdb
+G:\C#\_mis practicas\prototype3\consolas\obj\Debug\net5.0\consolas.genruntimeconfig.cache

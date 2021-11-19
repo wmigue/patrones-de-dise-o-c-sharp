@@ -13,15 +13,31 @@ namespace consolas
         public Consola(string nom, string gen)
         {
             _nombre = nom;
-            if (gen == "1")
+            _generacion = gen;
+
+            if (_generacion == "1")
                 _generacion = "PRIMERA";
-            else
+            if (_generacion == "2")
                 _generacion = "SEGUNDA";
               
         }
         public void setNombre(string nom)
         {
             _nombre = nom;
+
+            if (_nombre == "1")
+                _nombre = "PLAYSTATION";
+            if (_nombre == "2")
+                _nombre = "XBOX";
+        }
+        public void setGen(string gen)
+        {
+            _generacion = gen;
+
+            if (_generacion == "1")
+                _generacion = "PRIMERA";
+            if (_generacion == "2")
+                _generacion = "SEGUNDA";
         }
         public Consola Clonar()
         {

@@ -13,4 +13,4 @@ Tener en cuenta que para reproducir la tv, el mismo deberá estar encendido. Tan
 Cuando se conecte el Chromecast a una TV, a este último se le añadirán las funcionalidades de poder reproducir Netflix y Youtube
  como s de un Smart Tv se tratase. Tener en cuenta que al hacer cualquiera de estas últimas dos acciones, el Chromecast deberá llamar
  al método ReproducirTv del televisor, 
-y extenderle su comportamiento. Si un TV no tiene un Chromecast conetado, no podrá reproducir Netflix ni Youtube. 
+y extenderle su comportamiento. Si un TV no tiene un Chromecas		 no podrá reproducir Netflix ni Youtube. 

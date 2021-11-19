@@ -12,7 +12,7 @@ namespace fabrica_decorator
             IComponente tvsmart = creadortv.Fabricar(2);
             IComponente cc = creadorcc.Fabricar(1); //chromecast
 
-            //((Chromecast)cc).conectarTV((TVsmart)tvsmart);
+            ((Chromecast)cc).conectarTV((TVsmart)tvsmart);
 
             //((Chromecast)cc).conectarTV((TVcomun)tvcomun);
             //((Chromecast)cc).ReproducirNetflix();

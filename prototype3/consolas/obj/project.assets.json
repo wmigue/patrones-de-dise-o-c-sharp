@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\C#\\_mis practicas\\_COMBINANDO\\EJERCICIO 1\\consolas\\consolas\\consolas.csproj",
+      "projectUniqueName": "G:\\C#\\_mis practicas\\prototype3\\consolas\\consolas.csproj",
       "projectName": "consolas",
-      "projectPath": "G:\\C#\\_mis practicas\\_COMBINANDO\\EJERCICIO 1\\consolas\\consolas\\consolas.csproj",
+      "projectPath": "G:\\C#\\_mis practicas\\prototype3\\consolas\\consolas.csproj",
       "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
-      "outputPath": "G:\\C#\\_mis practicas\\_COMBINANDO\\EJERCICIO 1\\consolas\\consolas\\obj\\",
+      "outputPath": "G:\\C#\\_mis practicas\\prototype3\\consolas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\migue\\AppData\\Roaming\\NuGet\\NuGet.Config",

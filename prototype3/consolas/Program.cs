@@ -7,6 +7,7 @@ namespace consolas
         static void Main(string[] args)
         {
             string c;
+            string g;
             Consola consola = new Consola("PLAYSTATION", "1");
 
             do
@@ -16,14 +17,37 @@ namespace consolas
                 Console.WriteLine("elija una generacion: \n 1- primera 2- segunda\n");
                 g = Console.ReadLine();
 
-                if (c == "1")
-                    consola.getConsola();
-                else
+                if(g == "1")
                 {
-                    consola = consola.Clonar();
-                    consola.setNombre("XBOX");
-                    consola.getConsola();
+                    if (c == "1")
+                    {
+                        consola.Clonar().getConsola();
+                    }
+
+                    if (c == "2")
+                    {
+                        var con = consola.Clonar();
+                        con.setNombre(c);
+                        con.getConsola();
+                    }
                 }
+                if (g == "2")
+                {
+                    if (c == "1")
+                    {
+                        var con = consola.Clonar();
+                        con.setGen(g);
+                        con.getConsola();
+                    }
+                    if (c == "2")
+                    {
+                        var con = consola.Clonar();
+                        con.setNombre(c);
+                        con.setGen(g);
+                        con.getConsola();
+                    }   
+                }
+
             } while (Int32.Parse(c) <= 2);
 
         }
