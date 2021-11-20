@@ -1,0 +1,16 @@
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 5\examen\examen\obj\Debug\net5.0\examen.csproj.AssemblyReference.cache
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 5\examen\examen\obj\Debug\net5.0\examen.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 5\examen\examen\obj\Debug\net5.0\examen.AssemblyInfoInputs.cache
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 5\examen\examen\obj\Debug\net5.0\examen.AssemblyInfo.cs
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 5\examen\examen\obj\Debug\net5.0\examen.csproj.CoreCompileInputs.cache
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 5\examen\examen\bin\Debug\net5.0\examen.exe
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 5\examen\examen\bin\Debug\net5.0\examen.deps.json
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 5\examen\examen\bin\Debug\net5.0\examen.runtimeconfig.json
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 5\examen\examen\bin\Debug\net5.0\examen.runtimeconfig.dev.json
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 5\examen\examen\bin\Debug\net5.0\examen.dll
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 5\examen\examen\bin\Debug\net5.0\ref\examen.dll
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 5\examen\examen\bin\Debug\net5.0\examen.pdb
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 5\examen\examen\obj\Debug\net5.0\examen.dll
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 5\examen\examen\obj\Debug\net5.0\ref\examen.dll
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 5\examen\examen\obj\Debug\net5.0\examen.pdb
+G:\C#\_mis practicas\_COMBINANDO\EJERCICIO 5\examen\examen\obj\Debug\net5.0\examen.genruntimeconfig.cache

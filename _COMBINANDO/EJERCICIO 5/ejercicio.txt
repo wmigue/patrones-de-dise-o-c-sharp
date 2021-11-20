@@ -1,0 +1,25 @@
+
+Una cadena de constructoras se dedica a la realización de casas pre fabricadas. Las casas pueden venir de 2,3 o 4 ambientes,
+ y siempre serán iguales, por lo que se necesitará acceso cuando se quiera una de estas casas, a una plantilla de donde sacarla.
+ 
+La cadena de constructoras está compueta por 3 filiales, las cuales se encargan cada una de la construcción de un tipo de casas 
+en particular, delegando en la filial correspondiente en 
+cada caso de que les llegue una petición de construcción que no esté contemplada para ellas. Es decir, una se encarga de la de 2,
+ otra de la de 3 y otra de la de 4). 
+
+Las casas originalmente vienen sin muebles y de 1 solo piso, pero como servicio posventa, 
+la constructora que construyó la casa ofrece la posibilidad de extenderle funcionalidad a la casa haciendo que vengan amobladas 
+y añadirle un piso más. 
+
+
+Consideraciones:
+-Tener en cuenta que las casas deberían tener un método para devolver la cantidad de ambientes, otro para devolver si están 
+amobladas o no, y otro que indique la cantidad de pisos. 
+-La extensión de la funcionalidad de la casa la debe realizar la misma constructora que la construyó.
+
+DECORATOR
+PROTOTYPE
+BRIDGE¿?
+builder
+
+
