@@ -1,0 +1,104 @@
+proyecto name="webapi 2"----------------
+sql server desde c#-------------- 
+-instalar sql server express, y sql management.
+-en visual studio, en ver > sql
+-vamos a base de datos, crear nueva, luego tabla, luego actualizar , 
+luego actualizar, y se genera.
+
+creando API c# -----------------
+-nuevo proyecto > web api net core.
+-agregar carpeta models, dentro una clase con las entidades
+-agregar en carpeta models > nuevo controlador con vistas de EF, enlazamos el modelo y nos genera automaticamente el controlador, 
+con los metodos get, getbyid, etc...
+-editar archivo propierties > "launch settings" > agregamos nuestras rutas definidas en controllers, ej, launchURL : "API/libros" 
+para que inicie en una ruta definida.
+-en appsettings.json actualizar la cadena de conexion por nuestra base de datos.
+
+
+configurar cors origin en servidor -----------------
+
+-agregar: a startup.cs en configureServices: 
+
+          //para poder acceder desde cualquier origen
+            services.AddCors(options =>
+            {
+                options.AddPolicy("permitir", builder =>
+                {
+                    builder.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin();
+                });
+            });
+-agregar en metodo configure:
+     app.UseCors("permitir");
+-en controladores agregar:
+    [Route("api/[controller]")]
+    [ApiController]
+    [EnableCors("permitir")]
+
+
+Migraciones de base de datos (para actualizar tablas a partir de  nuestras clases ) --------------
+-instalar desde nuget: 
+   entityFrameworkCore
+   Microsoft.EntityFrameworkCore.Tools
+   Microsoft.EntityFrameworkCore.Design
+-situarnos en la carpeta que tiene el .csproj
+-para migracion inicial ejecutar:
+   dotnet ef migrations add nombre
+-luego para update base de datos con cambios:
+ dotnet ef database update
+-en appsettings.json actualizar la cadena de conexion por nuestra base de datos si no lo hicimos antes.
+
+
+proyecto name="webapi 2"--------------------
+solo para usar base de datos-------------
+instalar e investigar proyecto name="webapi 2"
+Install-Package FluentValidation.AspNetCore
+
+
+
+
+
+
+
+
+
+IMPORTANDO LA BASE DE DATOS: --------------------------------------------------------------
+1- Abrir SQL Server management studio como administrador
+2- para importar una base de datos => boton derecho sobre la base de datos, “attach o adjuntar”, seleccionamos nuestro .mdf y listo.
+otra forma:
+para exportar:
+ boton derecho sobre “databases” → export data-tier application → en examinar buscamos nuestro archivo .bacpac.
+para importar:
+boton derecho sobre “databases” → import data-tier application → en examinar buscamos nuestro archivo .bacpac , y le damos siguiente, siguiente... 
+listo ya tenemos nuestra base de datos, solo debemos configurar nuestra cadena de conexion desde visual studio 2019 en el archivo appsettings.json.  
+la cadena de conexion viene desde las propiedades de la base de datos que vamos a usar (no del servidor...)
+
+
+
+
+
+
+ejercicio ----------------------
+
+1)Realizar la implementación de al menos 3 microservicios interconectados entre si. Cada uno de estos microservicios, 
+debe tener al menos un controlador con acciones de CRUD.
+ La implementación del modelo de datos puede ser como la realizada en las apis que hemos usado en la materia,
+ para facilitar la ejecución de la misma. La implementación, deberá valerse de un ejemplo real, es decir, 
+similar al visto en clase con el sistema de RRHH que tenía una api para los empleados y otra para la documentación de estos. 
+
+El TP, deberá incluir además un documento explicando el caso de uso real y la interacción que realizan. 
+ 
+2)Cada una de estas apis, deberá contener al menos 1 patrón de diseño (que puede ser de caulquier tipo) implementado en ellas.
+ Por ejemplo, un composite en el modelo de datos, o un strategy para determinar el uso de un command/query. 
+
+El documento escrito también deberá contener que patrones utilizaron, porqué eligieron ese patrón, y en qué parte se encuentra implementado. 
+Éxitos! 
+ 
+Consideraciones: Las apis deberán respetar la arquitectura vista en la clase.
+
+
+
+----
+interconectados??
+un ejemplo, una api de pedidos, una que se encargue de hacer el pedido, otra de simular la entrega adomicilio, 
+y una tercera que se comunique con las 2 para ver el estado de ambas cosas, 
+ya sea pedido y envio

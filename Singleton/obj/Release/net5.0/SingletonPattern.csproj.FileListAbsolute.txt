@@ -1,0 +1,15 @@
+G:\_C#\_mis practicas\Singleton\bin\Release\net5.0\SingletonPattern.exe
+G:\_C#\_mis practicas\Singleton\bin\Release\net5.0\SingletonPattern.deps.json
+G:\_C#\_mis practicas\Singleton\bin\Release\net5.0\SingletonPattern.runtimeconfig.json
+G:\_C#\_mis practicas\Singleton\bin\Release\net5.0\SingletonPattern.runtimeconfig.dev.json
+G:\_C#\_mis practicas\Singleton\bin\Release\net5.0\SingletonPattern.dll
+G:\_C#\_mis practicas\Singleton\bin\Release\net5.0\ref\SingletonPattern.dll
+G:\_C#\_mis practicas\Singleton\bin\Release\net5.0\SingletonPattern.pdb
+G:\_C#\_mis practicas\Singleton\obj\Release\net5.0\SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+G:\_C#\_mis practicas\Singleton\obj\Release\net5.0\SingletonPattern.AssemblyInfoInputs.cache
+G:\_C#\_mis practicas\Singleton\obj\Release\net5.0\SingletonPattern.AssemblyInfo.cs
+G:\_C#\_mis practicas\Singleton\obj\Release\net5.0\SingletonPattern.csproj.CoreCompileInputs.cache
+G:\_C#\_mis practicas\Singleton\obj\Release\net5.0\SingletonPattern.dll
+G:\_C#\_mis practicas\Singleton\obj\Release\net5.0\ref\SingletonPattern.dll
+G:\_C#\_mis practicas\Singleton\obj\Release\net5.0\SingletonPattern.pdb
+G:\_C#\_mis practicas\Singleton\obj\Release\net5.0\SingletonPattern.genruntimeconfig.cache
