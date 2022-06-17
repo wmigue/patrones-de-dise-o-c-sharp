@@ -1,0 +1,16 @@
+G:\_C#\_mis practicas\Template\bin\Debug\net5.0\Template.exe
+G:\_C#\_mis practicas\Template\bin\Debug\net5.0\Template.deps.json
+G:\_C#\_mis practicas\Template\bin\Debug\net5.0\Template.runtimeconfig.json
+G:\_C#\_mis practicas\Template\bin\Debug\net5.0\Template.runtimeconfig.dev.json
+G:\_C#\_mis practicas\Template\bin\Debug\net5.0\Template.dll
+G:\_C#\_mis practicas\Template\bin\Debug\net5.0\ref\Template.dll
+G:\_C#\_mis practicas\Template\bin\Debug\net5.0\Template.pdb
+G:\_C#\_mis practicas\Template\obj\Debug\net5.0\Template.csproj.AssemblyReference.cache
+G:\_C#\_mis practicas\Template\obj\Debug\net5.0\Template.GeneratedMSBuildEditorConfig.editorconfig
+G:\_C#\_mis practicas\Template\obj\Debug\net5.0\Template.AssemblyInfoInputs.cache
+G:\_C#\_mis practicas\Template\obj\Debug\net5.0\Template.AssemblyInfo.cs
+G:\_C#\_mis practicas\Template\obj\Debug\net5.0\Template.csproj.CoreCompileInputs.cache
+G:\_C#\_mis practicas\Template\obj\Debug\net5.0\Template.dll
+G:\_C#\_mis practicas\Template\obj\Debug\net5.0\ref\Template.dll
+G:\_C#\_mis practicas\Template\obj\Debug\net5.0\Template.pdb
+G:\_C#\_mis practicas\Template\obj\Debug\net5.0\Template.genruntimeconfig.cache

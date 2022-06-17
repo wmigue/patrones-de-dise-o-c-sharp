@@ -1,0 +1,16 @@
+G:\_C#\_mis practicas\Iterator\obj\Debug\net5.0\Iterator.csproj.AssemblyReference.cache
+G:\_C#\_mis practicas\Iterator\obj\Debug\net5.0\Iterator.GeneratedMSBuildEditorConfig.editorconfig
+G:\_C#\_mis practicas\Iterator\obj\Debug\net5.0\Iterator.AssemblyInfoInputs.cache
+G:\_C#\_mis practicas\Iterator\obj\Debug\net5.0\Iterator.AssemblyInfo.cs
+G:\_C#\_mis practicas\Iterator\obj\Debug\net5.0\Iterator.csproj.CoreCompileInputs.cache
+G:\_C#\_mis practicas\Iterator\bin\Debug\net5.0\Iterator.exe
+G:\_C#\_mis practicas\Iterator\bin\Debug\net5.0\Iterator.deps.json
+G:\_C#\_mis practicas\Iterator\bin\Debug\net5.0\Iterator.runtimeconfig.json
+G:\_C#\_mis practicas\Iterator\bin\Debug\net5.0\Iterator.runtimeconfig.dev.json
+G:\_C#\_mis practicas\Iterator\bin\Debug\net5.0\Iterator.dll
+G:\_C#\_mis practicas\Iterator\bin\Debug\net5.0\ref\Iterator.dll
+G:\_C#\_mis practicas\Iterator\bin\Debug\net5.0\Iterator.pdb
+G:\_C#\_mis practicas\Iterator\obj\Debug\net5.0\Iterator.dll
+G:\_C#\_mis practicas\Iterator\obj\Debug\net5.0\ref\Iterator.dll
+G:\_C#\_mis practicas\Iterator\obj\Debug\net5.0\Iterator.pdb
+G:\_C#\_mis practicas\Iterator\obj\Debug\net5.0\Iterator.genruntimeconfig.cache

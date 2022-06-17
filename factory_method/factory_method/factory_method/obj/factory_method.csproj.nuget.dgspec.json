@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\C#\\_mis practicas\\factory_method\\factory_method\\factory_method\\factory_method.csproj": {}
+    "G:\\_C#\\_mis practicas\\factory_method\\factory_method\\factory_method\\factory_method.csproj": {}
   },
   "projects": {
-    "G:\\C#\\_mis practicas\\factory_method\\factory_method\\factory_method\\factory_method.csproj": {
+    "G:\\_C#\\_mis practicas\\factory_method\\factory_method\\factory_method\\factory_method.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\C#\\_mis practicas\\factory_method\\factory_method\\factory_method\\factory_method.csproj",
+        "projectUniqueName": "G:\\_C#\\_mis practicas\\factory_method\\factory_method\\factory_method\\factory_method.csproj",
         "projectName": "factory_method",
-        "projectPath": "G:\\C#\\_mis practicas\\factory_method\\factory_method\\factory_method\\factory_method.csproj",
+        "projectPath": "G:\\_C#\\_mis practicas\\factory_method\\factory_method\\factory_method\\factory_method.csproj",
         "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
-        "outputPath": "G:\\C#\\_mis practicas\\factory_method\\factory_method\\factory_method\\obj\\",
+        "outputPath": "G:\\_C#\\_mis practicas\\factory_method\\factory_method\\factory_method\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\migue\\AppData\\Roaming\\NuGet\\NuGet.Config",
