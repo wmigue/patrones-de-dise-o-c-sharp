@@ -1,0 +1,16 @@
+G:\_C#\_mis practicas\FACADE\bin\Debug\net5.0\FACADE.exe
+G:\_C#\_mis practicas\FACADE\bin\Debug\net5.0\FACADE.deps.json
+G:\_C#\_mis practicas\FACADE\bin\Debug\net5.0\FACADE.runtimeconfig.json
+G:\_C#\_mis practicas\FACADE\bin\Debug\net5.0\FACADE.runtimeconfig.dev.json
+G:\_C#\_mis practicas\FACADE\bin\Debug\net5.0\FACADE.dll
+G:\_C#\_mis practicas\FACADE\bin\Debug\net5.0\ref\FACADE.dll
+G:\_C#\_mis practicas\FACADE\bin\Debug\net5.0\FACADE.pdb
+G:\_C#\_mis practicas\FACADE\obj\Debug\net5.0\FACADE.csproj.AssemblyReference.cache
+G:\_C#\_mis practicas\FACADE\obj\Debug\net5.0\FACADE.GeneratedMSBuildEditorConfig.editorconfig
+G:\_C#\_mis practicas\FACADE\obj\Debug\net5.0\FACADE.AssemblyInfoInputs.cache
+G:\_C#\_mis practicas\FACADE\obj\Debug\net5.0\FACADE.AssemblyInfo.cs
+G:\_C#\_mis practicas\FACADE\obj\Debug\net5.0\FACADE.csproj.CoreCompileInputs.cache
+G:\_C#\_mis practicas\FACADE\obj\Debug\net5.0\FACADE.dll
+G:\_C#\_mis practicas\FACADE\obj\Debug\net5.0\ref\FACADE.dll
+G:\_C#\_mis practicas\FACADE\obj\Debug\net5.0\FACADE.pdb
+G:\_C#\_mis practicas\FACADE\obj\Debug\net5.0\FACADE.genruntimeconfig.cache
