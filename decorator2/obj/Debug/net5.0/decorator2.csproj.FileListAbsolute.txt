@@ -1,0 +1,16 @@
+G:\_C#\_mis practicas\decorator2\bin\Debug\net5.0\decorator2.exe
+G:\_C#\_mis practicas\decorator2\bin\Debug\net5.0\decorator2.deps.json
+G:\_C#\_mis practicas\decorator2\bin\Debug\net5.0\decorator2.runtimeconfig.json
+G:\_C#\_mis practicas\decorator2\bin\Debug\net5.0\decorator2.runtimeconfig.dev.json
+G:\_C#\_mis practicas\decorator2\bin\Debug\net5.0\decorator2.dll
+G:\_C#\_mis practicas\decorator2\bin\Debug\net5.0\ref\decorator2.dll
+G:\_C#\_mis practicas\decorator2\bin\Debug\net5.0\decorator2.pdb
+G:\_C#\_mis practicas\decorator2\obj\Debug\net5.0\decorator2.csproj.AssemblyReference.cache
+G:\_C#\_mis practicas\decorator2\obj\Debug\net5.0\decorator2.GeneratedMSBuildEditorConfig.editorconfig
+G:\_C#\_mis practicas\decorator2\obj\Debug\net5.0\decorator2.AssemblyInfoInputs.cache
+G:\_C#\_mis practicas\decorator2\obj\Debug\net5.0\decorator2.AssemblyInfo.cs
+G:\_C#\_mis practicas\decorator2\obj\Debug\net5.0\decorator2.csproj.CoreCompileInputs.cache
+G:\_C#\_mis practicas\decorator2\obj\Debug\net5.0\decorator2.dll
+G:\_C#\_mis practicas\decorator2\obj\Debug\net5.0\ref\decorator2.dll
+G:\_C#\_mis practicas\decorator2\obj\Debug\net5.0\decorator2.pdb
+G:\_C#\_mis practicas\decorator2\obj\Debug\net5.0\decorator2.genruntimeconfig.cache
