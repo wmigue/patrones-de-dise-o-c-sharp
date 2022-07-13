@@ -1,0 +1,16 @@
+G:\_C#\_mis practicas\command3\bin\Debug\net5.0\command3.exe
+G:\_C#\_mis practicas\command3\bin\Debug\net5.0\command3.deps.json
+G:\_C#\_mis practicas\command3\bin\Debug\net5.0\command3.runtimeconfig.json
+G:\_C#\_mis practicas\command3\bin\Debug\net5.0\command3.runtimeconfig.dev.json
+G:\_C#\_mis practicas\command3\bin\Debug\net5.0\command3.dll
+G:\_C#\_mis practicas\command3\bin\Debug\net5.0\ref\command3.dll
+G:\_C#\_mis practicas\command3\bin\Debug\net5.0\command3.pdb
+G:\_C#\_mis practicas\command3\obj\Debug\net5.0\command3.csproj.AssemblyReference.cache
+G:\_C#\_mis practicas\command3\obj\Debug\net5.0\command3.GeneratedMSBuildEditorConfig.editorconfig
+G:\_C#\_mis practicas\command3\obj\Debug\net5.0\command3.AssemblyInfoInputs.cache
+G:\_C#\_mis practicas\command3\obj\Debug\net5.0\command3.AssemblyInfo.cs
+G:\_C#\_mis practicas\command3\obj\Debug\net5.0\command3.csproj.CoreCompileInputs.cache
+G:\_C#\_mis practicas\command3\obj\Debug\net5.0\command3.dll
+G:\_C#\_mis practicas\command3\obj\Debug\net5.0\ref\command3.dll
+G:\_C#\_mis practicas\command3\obj\Debug\net5.0\command3.pdb
+G:\_C#\_mis practicas\command3\obj\Debug\net5.0\command3.genruntimeconfig.cache
